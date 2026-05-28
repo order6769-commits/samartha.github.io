@@ -4,6 +4,7 @@
 
 
 nārāyaṇaḥ pitā yasya yasya mātā haripriyā ।
+
 bhṛgvādi munayaḥ śiṣyā tasmai śrīvikhanase namaḥ ॥
 
 śrīlakṣmīvallabhārambhāṃ vikhano munimadhyamām ।

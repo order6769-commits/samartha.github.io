@@ -2,8 +2,10 @@
 a venkatesa oriented web site. i save my blog posts here, in case discord is gone for whatever reason. also, PROJECTS
 
 <div align="center">
-  <img src="[https://www.thiruman.com/Sri%20Vikanasa%20Acharyan%20Homepage/images/Sri%20Vikanasa%20Acharyan6.jpg]" alt="vikhānasa">
+  <img width="404" height="585" alt="vikhanasa" src="https://github.com/user-attachments/assets/d1975f1f-0a42-4c71-9325-e7617071f3e7" />
 </div>
+
+
 nārāyaṇaḥ pitā yasya yasya mātā haripriyā ।
 bhṛgvādi munayaḥ śiṣyā tasmai śrīvikhanase namaḥ ॥
 

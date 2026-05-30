@@ -22,3 +22,7 @@ Rao, Saligrama Krishna Ramachandra. *The Hill-Shrine of Veṅgaḍam*. Kalpathar
 Veeraraghavacharya, TKT. *History of Tirupati (The Thiruvengadam Temple) Vol I*, 1997, pg 72.
 "Tolkappiyam/Prologue on Tolkappiyam - Wikisource, the Free Online Library.” Wikisource.org, 2022, en.wikisource.org/wiki/Translation:Tolkappiyam/Prologue_on_Tolkappiyam. Accessed 10 May 2026.
 
+<div align="center">
+  <img width="404" height="585" alt="vikhanasa" src="<img width="859" height="476" alt="tolkappiyar" src="https://github.com/user-attachments/assets/65d5b5aa-823e-49f5-b977-06098015617b" />
+" />
+</div>

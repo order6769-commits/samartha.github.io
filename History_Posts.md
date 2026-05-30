@@ -1,2 +1,2 @@
 #                                                        History Posts
-[History Posts](tolkappiyam.md)
+[Reference to Tolkappiyam](tolkappiyam.md)

@@ -24,5 +24,4 @@ Veeraraghavacharya, TKT. *History of Tirupati (The Thiruvengadam Temple) Vol I*,
 
 <div align="center">
     <img width="859" height="476" alt="tolkappiyar" src="https://github.com/user-attachments/assets/65d5b5aa-823e-49f5-b977-06098015617b" />
-" />
 </div>
